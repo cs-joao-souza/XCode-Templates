@@ -10,13 +10,13 @@ XCode-Templates is a set of class templates to use in XCode.
 # Install
 
 ```
-./install
+./install.sh
 ```
 
 # Uninstall
 
 ```
-./uninstall
+./uninstall.sh
 ```
 # Todo
 
