@@ -1,6 +1,6 @@
 # XCode-Templates
 
-XCode-Templates is a set of class templates to use in XCode. 
+XCode-Templates is a set of class templates to use in XCode. Just install and access the templates when</br> you are creating a new file.
 
 # Available
 1. BDD</br>
