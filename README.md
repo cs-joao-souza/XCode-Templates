@@ -3,9 +3,9 @@
 XCode-Templates is a set of class templates to use in XCode. 
 
 # Available
-* BDD</br>
-** Quick/Nimble (Swift)</br>
-** Specta/Expecta (Objective-C)</br>
+1. BDD</br>
+..* Quick/Nimble (Swift)</br>
+..* Specta/Expecta (Objective-C)</br>
 
 # Install
 
