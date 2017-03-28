@@ -33,7 +33,7 @@
 			<string>specFor</string>
 			<key>Name</key>
 			<string>Spec for</string>
-			<key>Requiture</key>
+			<key>Required</key>
 			<true/>
 			<key>NotPersisted</key>
 			<true/>

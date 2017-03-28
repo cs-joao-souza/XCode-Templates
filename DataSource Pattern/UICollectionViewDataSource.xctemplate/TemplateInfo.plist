@@ -5,7 +5,11 @@
 	<key>Kind</key>
 	<string>Xcode.IDEFoundation.TextSubstitutionFileTemplateKind</string>
 	<key>Description</key>
-	<string>This is an class for Quick/Nimble Unit Test for Swift 3</string>
+	<string>Data Source for a UITableView for DataSource Pattern</string>
+	<key>Platforms</key>
+	<array>
+		<string>com.apple.platform.iphoneos</string>
+	</array>
 	<key>Summary</key>
 	<string></string>
 	<key>SortOrder</key>
@@ -15,12 +19,27 @@
 		<string>public.swift-source</string>
 	</array>
 	<key>DefaultCompletionName</key>
-	<string>Spec</string>
+	<string>DataSource</string>
 	<key>MainTemplateFile</key>
 	<string>___FILEBASENAME___.swift</string>
-	<key>Platforms</key>
+	<key>Options</key>
 	<array>
-		<string>com.apple.platform.iphoneos</string>
+		<dict>
+			<key>Default</key>
+			<string></string>
+			<key>Description</key>
+			<string>What is model class?</string>
+			<key>Identifier</key>
+			<string>modelType</string>
+			<key>Name</key>
+			<string>Model</string>
+			<key>Required</key>
+			<true/>
+			<key>NotPersisted</key>
+			<true/>
+			<key>Type</key>
+			<string>text</string>
+		</dict>
 	</array>
 </dict>
 </plist>

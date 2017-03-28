@@ -6,6 +6,9 @@ XCode-Templates is a set of class templates to use in XCode. Just install and ac
 1. BDD</br>
    * Quick/Nimble (Swift)</br>
    * Specta/Expecta (Objective-C)</br>
+1. DataSource Pattern</br>
+   * UITableViewDataSource (Swift)</br>
+   * UICollectionViewDataSource (Swift)</br>
 
 # Install
 
